@@ -42,7 +42,7 @@ const Navigation = () => {
                   className:
                     "group relative  overflow-hidden border border-foreground",
                 })}>
-                <div className="inline-flex   translate-y-0 items-center justify-center px-6  transition duration-300 group-hover:-translate-y-[150%]">
+                <div className="inline-flex  translate-y-0 items-center justify-center px-6  transition duration-300 group-hover:-translate-y-[150%]">
                   Join Us
                 </div>
                 <div className="absolute inline-flex h-12 w-full translate-y-[100%] items-center justify-center text-neutral-50 transition duration-500 group-hover:translate-y-0">
