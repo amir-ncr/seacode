@@ -92,4 +92,8 @@ export const QADATA: QATYPE = [
     question: "Nigga How?",
     answer: "lame ass niggas on the gruind",
   },
+  {
+    question: "why are u gay",
+    answer: undefined,
+  },
 ];
